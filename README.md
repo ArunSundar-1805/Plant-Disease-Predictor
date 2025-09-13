@@ -132,8 +132,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-## Author
-
-**Arun Sundar**
-
-For questions or collaborations, connect via [GitHub](https://github.com/ArunSundar-1805).
